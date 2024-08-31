@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifGrid/> Generar un snapshot del componente 1`] = `
+<div>
+  <h2>
+    Naruto
+  </h2>
+  <h1>
+    Trayendo la info de: 
+    Naruto
+  </h1>
+</div>
+`;
